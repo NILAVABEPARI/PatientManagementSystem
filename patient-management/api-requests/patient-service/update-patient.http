@@ -1,5 +1,5 @@
 ### Updates and existig patient
-PUT localhost:5000/patients/123e4567-e89b-12d3-a456-426614174000
+PUT localhost:4501/patients/123e4567-e89b-12d3-a456-426614174000
 Content-Type: application/json
 
 {
